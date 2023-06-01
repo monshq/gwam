@@ -1,0 +1,7 @@
+addons:
+  - name: arcdps
+    url: https://www.deltaconnected.com/arcdps/x64/d3d11.dll
+    path: ./d3d11.dll
+  - name: arcdps_killproof
+    url: https://api.github.com/repos/knoxfighter/arcdps-killproof.me-plugin/releases/latest
+    path: ./arcdps_killproof.dll
